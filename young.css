@@ -82,6 +82,8 @@ nav ul li{
  .body-container{
     width: 100%;
     background: whitesmoke;
+    margin: 0;
+    padding: 0;
    /* background-position: center;*/
 }
 .young{
@@ -109,7 +111,7 @@ nav ul li{
     
 }
 .designbox{
-    height:250px;
+    height:100vh;
     color: rgb(18, 73, 18);
     border-radius: 40%;
     border: 2px solid #37570b;
