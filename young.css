@@ -1,6 +1,11 @@
 body{ 
-    padding-top: 60px;
-    padding-bottom: 40px;
+  /*  padding-top: 60px;
+    padding-bottom: 40px;*/
+    background-position: cover;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
 }
 .fixed-header{
     width: 100%;
@@ -78,14 +83,13 @@ nav ul li{
     background-color: rgb(5, 131, 26);
     margin: 0;
 }
-*/
+
  .body-container{
     width: 100%;
     background: whitesmoke;
     margin: 0;
-    padding: 0;
-   /* background-position: center;*/
-}
+    padding: 0;*/
+
 .young{
     background-image: url(young.jpg);
     background-size: 100% 100%;
