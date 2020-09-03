@@ -100,6 +100,7 @@ body,html{
     padding: 5px;
     background: white;
     word-wrap: break-word;
+    align-content: center;
 }
 .designbox:hover{
     background: darkgreen;
